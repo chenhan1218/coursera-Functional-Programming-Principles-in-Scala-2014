@@ -1,0 +1,21 @@
+compile
+exit
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+console
+test
+console
+test
+scala objsets
+run
+test
+styleCheck
+submit r97922120@ntu.edu.tw Y2gPj9Cj2D

@@ -1,0 +1,16 @@
+compile
+last
+compile
+exit
+compile
+test
+compile
+console
+test
+compile
+run
+styleCheck
+test
+submit r97922120@ntu.edu.tw Y2gPj9Cj2D
+styleCheck
+exit
